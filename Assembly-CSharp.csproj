@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\FollowPlayer.cs" />
+    <Compile Include="Assets\Script\Item.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/hodzumikazutaka/Practice/Unity/Roll-a-Ball/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
