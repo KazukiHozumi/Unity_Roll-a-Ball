@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{0B821698-F1DF-1F9A-D7AB-088A7ABD037B}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Item.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameController.cs">
     <Files>
-      <File FileName="Assets/Script/Item.cs" Line="9" Column="6" />
+      <File FileName="Assets/Script/GameController.cs" Line="2" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
