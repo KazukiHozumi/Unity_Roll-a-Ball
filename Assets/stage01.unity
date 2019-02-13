@@ -416,6 +416,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreLabel: {fileID: 259212298}
+  winnerLabelObject: {fileID: 903197375}
 --- !u!1 &559861567
 GameObject:
   m_ObjectHideFlags: 0
