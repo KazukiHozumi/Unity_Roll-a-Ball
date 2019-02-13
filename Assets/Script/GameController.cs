@@ -12,7 +12,7 @@ public class GameController : MonoBehaviour
         scoreLabel.text = count.ToString();
 
         if (count == 0) {
-            
+            winnerLabelObject.SetActive(true);
         }
     }
 }
